@@ -12,9 +12,10 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Chachito, el pacha que vive en la casa de su papa
 text_align_left: false
-title: Hugo Apéro
+text_align_left: true
+title: EL PAPA DEL CHACHITO
 type: home
 ---
 
