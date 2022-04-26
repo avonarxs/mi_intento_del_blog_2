@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgLocal = "Anywhere. Photo by Mark König on Unsplash"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
@@ -122,32 +122,32 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = ""
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
+    name = ""
     title = "Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = ""
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
+    name = ""
     title = "Talks"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
+    name = ""
     title = "A collection"
     url = "/collection/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
+    name = ""
     title = "Element Page"
     url = "/elements/"
     weight = 6
