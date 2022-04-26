@@ -9,7 +9,7 @@ description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogo
   layouts that help you introduce yourself online.
 image_left: true
 images:
-- img/revoir.jpg
+- img/mark-konig-Uu5fnOkFAdA-unsplash.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Chachito, el pacha que vive en la casa de su papa
@@ -19,5 +19,4 @@ title: EL PAPA DEL CHACHITO
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+\*\* index doesn't contain a body, just front matter above. See index.html in the layouts folder \*\*
