@@ -6,7 +6,7 @@ description: Trabajando en la construcción del site sin que se vea muy feo.
 image_left: true
 images:
 - img/mark-konig-Uu5fnOkFAdA-unsplash.jpg
-show_action_link: true
+show_action_link: false
 show_social_links: true
 subtitle: En construcción
 text_align_left: false
