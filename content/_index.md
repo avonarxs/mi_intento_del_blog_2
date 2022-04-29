@@ -1,13 +1,13 @@
 ---
-action_label: Read More &rarr;
+action_label: Continua leyendo &rarr;
 action_link: /about
 action_type: text
-description: Trabajando en la construcción del site tratando de que no se vea muy feo.
+description: Trabajando en la construcción del site sin que se vea muy feo.
 image_left: true
 images:
 - img/mark-konig-Uu5fnOkFAdA-unsplash.jpg
-show_action_link: false
-show_social_links: false
+show_action_link: true
+show_social_links: true
 subtitle: En construcción
 text_align_left: false
 text_align_left: true
