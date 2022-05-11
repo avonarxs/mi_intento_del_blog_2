@@ -1,15 +1,15 @@
 // custom color variables
 
 $spc-blue: #122140;
-$spc-test: #FF725C; // orange pink color for testing changes
+$spc-test: #f50a0a; // red for testing changes
 $white: #FFFFFF;
 
 // cool palette
-$spc-bg: #fffbf2; // formerly #F5F5F5, #fffcf7, fffbf5
-$spc-bg-dark: #FAF0E3; // formerly #EBEBEB, #FBEBDA, FAF0E3, WIP FFF2EB 
-$spc-primary: #002642; // formerly #122140, 1C304A, 002642
-$spc-primary-light: #2E4963 ; // formerly #475269, 32415A, 2E4963
-$spc-secondary: #A23E02; // formerly #936C10, 815E0E, b04303
+$spc-bg: #f0eee9; // formerly #ccd5d2 #e5dad0
+$spc-bg-dark: #FAF0E3; // formerly  
+$spc-primary: #2E4963; // formely original #002642 
+$spc-primary-light: #809fa2 ; // formerly 
+$spc-secondary: #e09e38; // formerly #A23E02
 $spc-secondary-light: #936c10;
 
 // other highlight options
@@ -17,7 +17,7 @@ $spc-secondary-light: #936c10;
 // blue: (002642), 006E90*
 
 // set custom hex colors
-$siteBgColorCustom: $spc-bg;                   // site background
+$siteBgColorCustom: $spc-bg;                   // site background 
 $textColorCustom: $spc-primary-light;          // all text, including headings
 $bodyLinkColorCustom: $spc-secondary;          // main body links/anchors
 
