@@ -106,33 +106,33 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
+    name = "Sobre mi"
+    title = ""
+    url = "/sobre-mi/"
     weight = 1
   [[menu.header]]
-    name = ""
-    title = "Blog"
+    name = "Blog"
+    title = ""
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Portfolio"
-    title = "Portfolio"
-    url = "/project/"
+    name = "Portafolio"
+    title = ""
+    url = "/portafolio/"
     weight = 3
   [[menu.header]]
-    name = ""
-    title = "Talks"
+    name = "Talks"
+    title = ""
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = ""
-    title = "A collection"
+    name = "Collection"
+    title = ""
     url = "/collection/"
     weight = 5
   [[menu.header]]
-    name = ""
-    title = "Element Page"
+    name = "Elements"
+    title = ""
     url = "/elements/"
     weight = 6
     
