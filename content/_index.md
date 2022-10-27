@@ -2,7 +2,7 @@
 action_label: Continua leyendo &rarr;
 action_link: /
 action_type: text
-description: Trabajando en la construcción del site sin que se vea muy feo.
+description: Trabajando en la construcción de un site no tan feo.
 image_left: true
 images:
 #- img/mark-konig-Uu5fnOkFAdA-unsplash.jpg
