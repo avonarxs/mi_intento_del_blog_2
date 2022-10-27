@@ -1,11 +1,11 @@
 [build]
-  command = "hugo --gc --minify -b $URL --themesDir ../../"
+  command = "hugo"
   base    = "exampleSite/"
   publish = "public/"
 
 [build.environment]
   HUGO_THEME = "repo"
-  HUGO_VERSION = "0.97.0"
+  HUGO_VERSION = "0.80.0"
   HUGO_ENABLEGITINFO = "true"
   HUGO_BASEURL = "https://hugo-apero.netlify.app/"
 
